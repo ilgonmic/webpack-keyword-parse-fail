@@ -1,8 +1,8 @@
 # webpack-keyword-parse-fail
 
-`npm install`
-`node_modules/.bin/webpack`
-Fail: 
+1. `npm install`
+2. `node_modules/.bin/webpack`
+3. Fail: 
 ```
 ERROR in ./app.js 8:26
 Module parse failed: Unterminated regular expression (8:26)
